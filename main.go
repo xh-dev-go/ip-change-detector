@@ -6,8 +6,8 @@ import (
 	"flag"
 	"fmt"
 	"github.com/xh-dev-go/xhUtils/flagUtils/flagString"
+	notification "gitlab.xh-network.xyz/xeth/ip-changed-detector/notificatioin"
 	"io"
-	notification "ipChanged/notificatioin"
 	"net/http"
 	"os"
 )
