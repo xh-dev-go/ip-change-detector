@@ -1,4 +1,4 @@
-module github.com/xh-dev-go/ip-changed-detector
+module github.com/xh-dev-go/ip-change-detector
 
 go 1.17
 

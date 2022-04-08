@@ -5,7 +5,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	notification "github.com/xh-dev-go/ip-changed-detector/notificatioin"
+	notification "github.com/xh-dev-go/ip-change-detector/notificatioin"
 	"github.com/xh-dev-go/xhUtils/flagUtils/flagString"
 	"io"
 	"log"
