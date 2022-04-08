@@ -1,4 +1,4 @@
-module gitlab.xh-network.xyz/xeth/ip-changed-detector
+module github.com/xh-dev-go/ip-changed-detector
 
 go 1.17
 
